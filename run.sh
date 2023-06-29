@@ -1,0 +1,1 @@
+accelerate launch /workspace/axolotl/scripts/finetune.py /root/n1a/config2.yml
